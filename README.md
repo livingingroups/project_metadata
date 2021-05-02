@@ -94,6 +94,7 @@ Otherwise we case have researchers add details.
 	Having a text file of field notes would be a good idea. 
 	This can also include helpful contacts (i.e. cab drivers, friends), places(safe places to stay, restaurants), stores (where to get the weird equipment you need in a city).
 	Perhaps things related to "the field" vs, the logistics in getting to the field could be separated.
-
+10. Funding sources
+	1. Grants and Fellowships that contributed to paying for this project	
 
 
