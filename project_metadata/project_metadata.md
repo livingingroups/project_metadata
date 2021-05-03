@@ -11,20 +11,20 @@ It is different, but related, to "File Metadata" which is metadata extracted fro
 ## How will we use Project Metadata
 Projects will be tagged with metadata available from a specified list available on a Github repository.
 If new metadata needs to be added to a project, that can be passed to Angie(?) and uploaded additionally. 
-It will be key to make sure metadata ID from a specified list to that indexing is consistent across file types.
+It will be key to make sure metadata ID from a specified list so that indexing is consistent across file types.
 Hashing could be key to the succes of this.
 
-When a researcher returns from the field all of their raw data should be uploaded to:
+When a researcher returns from the field, all of their raw data should be uploaded to:
 `/EAS_shared/project_folder/working/UPLOADS/` 
 on the server. The name of the folder should be your project name. The data will only be here temporarily while you are organizing it.
 The **Data Catalog Entry Form** should be updated and sent to Angie. This form will contain project metadata.
 
 This project metadata file should also be linked to a Project README **(add link, future Brendan)**. These two files are closely linked, but the information in the `project_metadata` file will be used to link comparisons across all the project datasets over the lifetime of the department.
-For example, say a hypothetical someone wanted to do a ambitious multi-site comparaitve study on white-faced capuchin monkeys in 20 years and wants to see all department data/projects that involves capuchins.
+For example, if someone wanted to do a ambitious multi-site comparaitve study on white-faced capuchin monkeys in 20 years, this system would allow them to see all department data/projects that involves capuchins.
 
-Imagine someone want to see all the projects/papers that were funded by a particular gran or performed by a person.
+Imagine someone wants to see all the projects/papers that were funded by a particular grant or performed by a person.
 
-This will able us to connect the dots over the years and make sense of the data without needing to go to that researcher directly.
+This system will able us to connect the dots over the years and make sense of the data without needing to go to that researcher directly.
 
 ## Where does it go
 A central Github repository TBD and/or on the server.
@@ -47,7 +47,7 @@ For each person we should have:
 		6. Analyst
 	5. Dates in Field
 
-It might be worth considering have  a website, twitter, email or other means of contacts as institutions change or if working with folks locally (i.e. WhatsApp or Address)
+It might be worth considering having a website, twitter, email or other means of contact as institutions change or if working with folks locally (i.e. WhatsApp or Address)
 
 3. Species
 	1. common name in English
