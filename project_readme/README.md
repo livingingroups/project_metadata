@@ -58,14 +58,13 @@ This is a paragraph summary about the project, its history, and general goals
 ### 8. Data File Details
 Each csv, yaml, or other plain text file should also have a corresponding `.txt.` file that explains each column and what is in it.
 In the case of a csv this would include:
-
-	1. Number of Variables
-	2. Number of cases/rows
-	3. Variable list
-		* list variable name(s), description(s), unit(s) and value labels as appropriate for each
-	4. Missing data codes 
-		* i.e. symbol/code and definition
-	5. Other specialized formats or abbreviations if applicable
+1. Number of Variables
+2. Number of cases/rows
+3. Variable list
+	* list variable name(s), description(s), unit(s) and value labels as appropriate for each
+4. Missing data codes 
+	* i.e. symbol/code and definition
+5. Other specialized formats or abbreviations if applicable
 
 The goal of this file should be that any reearcher, not knowing what the project is, can pick it up and be able to make sense of what it contains. 
 
@@ -82,14 +81,14 @@ Otherwise we case have researchers add details.
 Some of this data can be extracted from the raw data if need be (i.e. camera model and serial number info using EXIFtool). We should inform where that can be found.
 
 ### 10. Software
-	If special proprietary software or code was used for data collection in the field, info on it should be provided (or links to source code). Examples include:
+If special proprietary software or code was used for data collection in the field, info on it should be provided (or links to source code). Examples include:
 1. Software name, make, serial number
 2. Link to source code
 3. Link to form (i.e. if something like ODK or KOBO collect is used)
 
 ### 11. Methods
-	A document describing methods for data collection is worthwhile including, so we know how data came into existence. 
-	This can go in your paper anyway, and writing it up now will save headache down the line in 10 years once you finally get around to writing these papers we think will just take "a few weeks." This includes:
+A document describing methods for data collection is worthwhile including, so we know how data came into existence. 
+This can go in your paper anyway, and writing it up now will save headache down the line in 10 years once you finally get around to writing these papers we think will just take "a few weeks." This includes:
 	1. Sampling Design
 	2. Sampling Effort
 	3. Animal handling/Collaring Protocols
