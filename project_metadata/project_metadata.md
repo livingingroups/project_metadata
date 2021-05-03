@@ -84,20 +84,7 @@ Data should have some ideal file format name *which group 1 is discussing*, and 
 		6. Camera Trap
 		7. Spatial (i.e. GPS)
 		8. Drone Imagery
-
-Each csv, yaml, or other plain text file should also have a corresponding `.txt.` file that explains each column and what is in it.
-In the case of a csv this would include:
-
-	1. Number of Variables
-	2. Number of cases/rows
-	3. Variable list
-		* list variable name(s), description(s), unit(s) and value labels as appropriate for each
-	4. Missing data codes 
-		* i.e. symbol/code and definition
-	5. Other specialized formats or abbreviations if applicable
-
-
-
+		
 6. Dates
 	1. Field Trip Duration
 	2. Data Collection Duration
