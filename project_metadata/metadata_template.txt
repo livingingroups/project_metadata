@@ -17,14 +17,14 @@ people_2:
 	field_dates: 01.01.2021-01.14.2020
 
 people_3: 
-	name: Claudio Montez
+	name: Claudio Monteza
 	institution: UC Davis; MPI Animal Behavior
 	email: cmonteza@ab.mpg.de
 	role: Collaborator
 	field_dates: 10.01.2021-11.14.2020
 
 people_3: 
-	name: CMeredith Carlson
+	name: Meredith Carlson
 	institution: UC Davis
 	email: mkcarlson@ucdavis.edu
 	role: Collaborator
