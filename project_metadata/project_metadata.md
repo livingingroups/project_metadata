@@ -84,10 +84,15 @@ Data should have some ideal file format name *which group 1 is discussing*, and 
 		6. Camera Trap
 		7. Spatial (i.e. GPS)
 		8. Drone Imagery
+		9. DNA_samples
+		10. Tissue_smaples
+
 		
 6. Dates
 	1. Field Trip Duration
 	2. Data Collection Duration
+	3. Project begin date
+	4. Project end data
 	
 7. Funding sources
 	1. Grants and Fellowships that contributed to paying for this project or giving researchers salaries.	

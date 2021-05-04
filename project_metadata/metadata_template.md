@@ -1,0 +1,70 @@
+# Project Metadata Template
+
+project_name: capuchins_coiba
+
+people_1: 
+	name: Brendan Barrett
+	institution: MPI Animal Behavior
+	email: bbarrett@ab.mpg.de
+	role: PI
+	field_dates: 01.01.2021-01.14.2020
+
+people_2: 
+	name: Margret Crofoot
+	institution: MPI Animal Behavior
+	email: mccrofoot@ab.mpg.de
+	role: PI
+	field_dates: 01.01.2021-01.14.2020
+
+people_3: 
+	name: Claudio Montez
+	institution: UC Davis; MPI Animal Behavior
+	email: cmonteza@ab.mpg.de
+	role: Collaborator
+	field_dates: 10.01.2021-11.14.2020
+
+people_3: 
+	name: CMeredith Carlson
+	institution: UC Davis
+	email: mkcarlson@ucdavis.edu
+	role: Collaborator
+	field_dates: 02.01.2021-01.11.2020
+
+species_1:
+	common_name: white-faced capuchin
+	local_name: mono cariblanco
+	scientific_name: Cebus imitator
+
+location_1:
+	country: Panama
+	region: Veraguas
+	park_pa: Coiba National Park
+	field_station_1: STRI Rancheria
+	lat_log: 7.4693N 81.7568W
+
+data_fire_type_overview
+	file_type_1: .csv 
+	file_type_2: .jpg
+	file_type_3: .mp4
+	file_type_4: .pdf
+	file_type_5: .gpx
+
+data_description
+	data_desc_1: climatic
+	data_desc_1: camera_trap
+	data_desc_3: handheld_gps
+	data_desc_4: dna_samples
+	data_desc_4: ecological
+
+dates:
+	project_begin: 17.03.2017
+	field_trip_begin: 01.01.2020
+	field_trip_end: 01.01.2020
+
+	
+funding_sources:
+	fund_1: max_planck_institite
+	fund_2: humboldt_fellowship_mcc
+	fund_3: leakey_foundation_brendan_barrett_232323FD
+
+
