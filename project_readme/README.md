@@ -93,7 +93,7 @@ This can go in your paper anyway, and writing it up now will save headache down 
 	2. Sampling Effort
 	3. Animal handling/Collaring Protocols
 	
-###12. Field Notes
+### 12. Field Notes
 	Having a text file of useful field notes would be a good idea, aprticularly if someone pick up your project or visits your site in the future.
 	This can also include helpful contacts (i.e. cab drivers, friends), places(safe places to stay, restaurants), stores (where to get the weird equipment you need in a city).
 	Perhaps things related to "the field" vs, the logistics in getting to the field could be separated. 
